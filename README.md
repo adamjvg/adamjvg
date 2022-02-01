@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adamjvg
+- 👋 Hi, I’m Adam Van Geleuken
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python, SQL and Mongo
 - 💞️ I’m looking to collaborate eventually
